@@ -36,3 +36,10 @@ It’s built with Python and deployed using Streamlit for a smooth and interacti
 ▪ Naive Bayes (Classification model)
 
 
+![Image](https://github.com/user-attachments/assets/96df5f3c-c7df-47ec-a157-32e81eb4c88b)
+
+![Image](https://github.com/user-attachments/assets/e7966c83-74e5-4f69-a4e0-8b31551b2154)
+
+![Image](https://github.com/user-attachments/assets/04eba9e9-f59a-4203-b7d9-4799201074d9)
+
+
